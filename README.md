@@ -27,7 +27,7 @@ This is a MATLAB project that finds the nearest capital to your latitude &amp; l
 
  
 5.	User can input the longitude with the same domain as the latitude. (ex. -  -83 as longitude). Output of the map will appear and the output of fprintf statements along with data table will appear.
-6.	
+
 ![image](https://github.com/user-attachments/assets/de4af52f-894a-4e97-82a8-db0d48ad8d43)
 
 Middle circle is the capital, outside small circle is the current location of latitude and longitude that the user inputted, big circle is the radius between those two points.
