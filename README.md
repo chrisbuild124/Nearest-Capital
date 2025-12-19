@@ -1,8 +1,8 @@
-# 🗺️ Nearest-Capital
+# Nearest-Capital
 
 A MATLAB project that calculates the nearest U.S. state capital based on your latitude and longitude. This tool uses spherical geometry to account for Earth's curvature and was developed as part of my Civil Engineering degree at Purdue University.
 
-## 📦 Program Overview
+## Program Overview
 
 This project includes four user-defined functions and one executive function (`exec.m`) that coordinates the workflow:
 
@@ -20,7 +20,7 @@ This project includes four user-defined functions and one executive function (`e
   - Car, plane, train, and bus
   - If no capitals are within 300 miles, a message is displayed instead
 
-## 🧭 How to Use
+## How to Use
 
 1. **Download the following files** into your MATLAB project folder:
    - `Capitalsll.txt`
